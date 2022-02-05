@@ -480,8 +480,14 @@ footer img {
     line-height: normal;
   }
 
-  .smaller-sub-headers {
+  .feature h4 {
     font-size: 16px;
+  }
+
+  .download-link {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   .smaller-text {
